@@ -1,0 +1,5 @@
+{"browser":"firefox",
+"url": "http://rmgtestingserver/domain/Hospital_Management_System/hms/admin/",
+"admin_username" :"admin",
+"admin_password": "Test@12345"
+}
